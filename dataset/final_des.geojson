@@ -1,0 +1,317 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.589497,13.14729 ]
+    },
+    "properties": {
+    "FIELD1":0,
+    "place":"Ganganahalli",
+    "population_density":691,
+    "latlng":"13.14729 , 77.589497"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.588725,13.084276 ]
+    },
+    "properties": {
+    "FIELD1":1,
+    "place":"Allalasandra",
+    "population_density":618,
+    "latlng":"13.084276 , 77.588725"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.585044,13.119026000000002 ]
+    },
+    "properties": {
+    "FIELD1":2,
+    "place":"Kenchenahalli",
+    "population_density":668,
+    "latlng":"13.119026000000002 , 77.585044"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.580075,13.110185999999999 ]
+    },
+    "properties": {
+    "FIELD1":3,
+    "place":"Puttanahalli",
+    "population_density":825,
+    "latlng":"13.110185999999999 , 77.580075"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.625298,13.109466000000001 ]
+    },
+    "properties": {
+    "FIELD1":4,
+    "place":"Sri Balaji Layout",
+    "population_density":688,
+    "latlng":"13.109466000000001 , 77.625298"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.577055,13.092543 ]
+    },
+    "properties": {
+    "FIELD1":5,
+    "place":"Soma Nagar",
+    "population_density":482,
+    "latlng":"13.092543 , 77.577055"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.619985,13.138444 ]
+    },
+    "properties": {
+    "FIELD1":6,
+    "place":"Bharti Nagar",
+    "population_density":699,
+    "latlng":"13.138444 , 77.619985"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.586738,13.078017 ]
+    },
+    "properties": {
+    "FIELD1":7,
+    "place":"Judicial Layout",
+    "population_density":536,
+    "latlng":"13.078017 , 77.586738"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.59951,13.114354999999998 ]
+    },
+    "properties": {
+    "FIELD1":8,
+    "place":"Chowdeshwari Layout ",
+    "population_density":853,
+    "latlng":"13.114354999999998 , 77.59951"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.590198,13.101925 ]
+    },
+    "properties": {
+    "FIELD1":9,
+    "place":"East Colony ",
+    "population_density":778,
+    "latlng":"13.101925 , 77.590198"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.579544,13.092032000000001 ]
+    },
+    "properties": {
+    "FIELD1":10,
+    "place":"Someshwara Nagar",
+    "population_density":811,
+    "latlng":"13.092032000000001 , 77.579544"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.592258,13.078111 ]
+    },
+    "properties": {
+    "FIELD1":11,
+    "place":"Yashoda Nagar",
+    "population_density":826,
+    "latlng":"13.078111 , 77.592258"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.600821,13.130699 ]
+    },
+    "properties": {
+    "FIELD1":12,
+    "place":"Bsf Campus",
+    "population_density":849,
+    "latlng":"13.130699 , 77.600821"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.598792,13.084717 ]
+    },
+    "properties": {
+    "FIELD1":13,
+    "place":"Jakkur Plantation",
+    "population_density":803,
+    "latlng":"13.084717 , 77.598792"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.605391,13.110563 ]
+    },
+    "properties": {
+    "FIELD1":14,
+    "place":"Aakaar Bangalore Ceramics Road",
+    "population_density":658,
+    "latlng":"13.110563 , 77.605391"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.591791,13.106905000000001 ]
+    },
+    "properties": {
+    "FIELD1":15,
+    "place":"Kamakshiamma Layout",
+    "population_density":743,
+    "latlng":"13.106905000000001 , 77.591791"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.57616,13.094799 ]
+    },
+    "properties": {
+    "FIELD1":16,
+    "place":"Sharadhanagar",
+    "population_density":686,
+    "latlng":"13.094799 , 77.57616"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.61463,13.145635 ]
+    },
+    "properties": {
+    "FIELD1":17,
+    "place":"Suggata Main Road",
+    "population_density":502,
+    "latlng":"13.145635 , 77.61463"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.582275,13.091216000000001 ]
+    },
+    "properties": {
+    "FIELD1":18,
+    "place":"Chikka Bommasandra",
+    "population_density":415,
+    "latlng":"13.091216000000001 , 77.582275"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.582778,13.105466 ]
+    },
+    "properties": {
+    "FIELD1":19,
+    "place":"Doddaballapur Road",
+    "population_density":577,
+    "latlng":"13.105466 , 77.582778"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.58238,13.131584 ]
+    },
+    "properties": {
+    "FIELD1":20,
+    "place":"5th Cross Harohalli",
+    "population_density":672,
+    "latlng":"13.131584 , 77.58238"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.568272,13.114370999999998 ]
+    },
+    "properties": {
+    "FIELD1":21,
+    "place":"Anantapura",
+    "population_density":857,
+    "latlng":"13.114370999999998 , 77.568272"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  77.610301,13.108607000000001 ]
+    },
+    "properties": {
+    "FIELD1":22,
+    "place":"Maruthi Nagar",
+    "population_density":757,
+    "latlng":"13.108607000000001 ,  77.610301"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.590065,13.091221 ]
+    },
+    "properties": {
+    "FIELD1":23,
+    "place":"Ambedkar Colony",
+    "population_density":700,
+    "latlng":"13.091221 , 77.590065"
+    }
+  }
+]
+}
